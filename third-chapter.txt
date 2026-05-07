@@ -1,0 +1,2 @@
+A Quick Tip for Developers
+Most programmers eventually stop using spaces in file or folder names entirely (using Day_70 or Day70 instead) specifically to avoid this headache. But for now, just remember: If there's a space, use quotes or the Tab key!

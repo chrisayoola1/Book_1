@@ -1,0 +1,1 @@
+Git is like a strict notary—it refuses to stamp your "Time Machine" entry unless it knows exactly who to blame (or credit) for the changes. Since this is your first time using it on this machine, it has no record of your identity.
